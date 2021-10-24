@@ -1,4 +1,4 @@
-package ru.golovchen.spring.examples;
+package ru.golovchen.spring.cian;
 
 import java.io.IOException;
 import java.util.List;

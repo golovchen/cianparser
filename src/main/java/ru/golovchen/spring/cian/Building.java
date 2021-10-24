@@ -1,4 +1,4 @@
-package ru.golovchen.spring.examples;
+package ru.golovchen.spring.cian;
 
 import org.apache.commons.lang3.builder.ReflectionToStringBuilder;
 import org.apache.commons.lang3.builder.ToStringStyle;
